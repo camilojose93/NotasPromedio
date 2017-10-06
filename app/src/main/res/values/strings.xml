@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Notas Promedio</string>
+    <string name="textView">Promedio Notas</string>
+    <string name="textView2">PMI</string>
+    <string name="textView3">Nota 1:</string>
+    <string name="textView4">Nota 2:</string>
+    <string name="textView5">Nota 3:</string>
+    <string name="textView7">Proyectos Agiles</string>
+    <string name="textView8">Nota 1:</string>
+    <string name="textView9">Nota 1:</string>
+    <string name="textView11">Nota 1:</string>
+    <string name="textView16">Desarrollo Movil</string>
+    <string name="textView17">Nota 1:</string>
+    <string name="textView18">Nota 1:</string>
+    <string name="textView19">Nota 1:</string>
+    <string name="button">Calcular</string>
+    <string name="button2">Acerca de</string>
+    <string name="button5">Salir</string>
+    <string name="textView10">Creado por: Camilo Caviedes</string>
+    <string name="textView15">Esta aplicación permite a los estudiantes calcular el promedio de notas y el promedio general acumulado solo debes ingresar tus notas</string>
+
+</resources>

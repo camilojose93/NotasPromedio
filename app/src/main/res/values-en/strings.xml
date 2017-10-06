@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Average Grades</string>
+    <string name="textView">Average Notes</string>
+    <string name="textView2">PMI</string>
+    <string name="textView3">Note 1:</string>
+    <string name="textView4">Note 2:</string>
+    <string name="textView5">Note 3:</string>
+    <string name="textView7">Agile projects</string>
+    <string name="textView8">Note 1:</string>
+    <string name="textView9">Note 1:</string>
+    <string name="textView11">Note 1:</string>
+    <string name="textView16">Mobile Development</string>
+    <string name="textView17">Note 1:</string>
+    <string name="textView18">Note 1:</string>
+    <string name="textView19">Note 1:</string>
+    <string name="button">Calculate</string>
+    <string name="button2">About</string>
+    <string name="button5">Exit</string>
+    <string name="textView10">Create by: Camilo Caviedes</string>
+    <string name="textView15">This application allows students to calculate the average grade and the cumulative grade point average just enter your grades</string>
+</resources>
